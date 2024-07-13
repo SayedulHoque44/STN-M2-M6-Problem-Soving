@@ -1,0 +1,54 @@
+[
+  {
+    "person": [
+      {
+        "name": "John",
+        "age": 30,
+        "gender": "male"
+      },
+      {
+        "name": "Jane",
+        "age": 25,
+        "gender": "female"
+      },
+      {
+        "name": "Bob",
+        "age": 40,
+        "gender": "male"
+      },
+      {
+        "name": "Alice",
+        "age": 35,
+        "gender": "female"
+      }
+    ],
+    "books": [
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960
+      },
+      {
+        "title": "The Art",
+        "author": "George Orwell",
+        "year": 1949
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925
+      },
+      {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "year": 1851
+      }
+    ],
+    "cars": [
+      { "make": "Toyota", "model": "Corolla", "year": 2015 },
+      { "make": "Honda", "model": "Civic", "year": 2012 },
+      { "make": "Ford", "model": "Mustang", "year": 2018 },
+      { "make": "Chevrolet", "model": "Malibu", "year": 2016 }
+    ]
+  }
+]
